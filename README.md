@@ -32,4 +32,7 @@ __This will also be bold__
 - [x] This is a complete item.
 - [ ] This is an incomplete item.  git commit -m '<Comment on what has been updated>'
 
+```
+git status
 
+```
